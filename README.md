@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vtiger CRM
 ==========
 
@@ -66,3 +67,6 @@ repository as an upstream remote (only need to do this bit once), then you can f
     git remote add upstream https://code.vtiger.com/vtiger/vtigercrm.git
     git fetch upstream
     git merge upstream/master
+=======
+# jeterp
+>>>>>>> 1c7da78707affcbe8e24079a1ff8a2a7bf2aea5e
